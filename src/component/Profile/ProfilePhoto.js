@@ -1,4 +1,4 @@
- import source from "./rania.jpg"
+ import source from "./ranim.jpg"
  import "./Style.css"
  function ProfilePhoto() {
     
